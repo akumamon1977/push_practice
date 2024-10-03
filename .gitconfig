@@ -1,0 +1,7 @@
+[core]
+	editor = code --wait
+[user]
+	name = <名前>
+	email = <アドレス>
+[init]
+	defaultBranch = main

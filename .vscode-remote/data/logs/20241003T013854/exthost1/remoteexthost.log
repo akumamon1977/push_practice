@@ -1,0 +1,53 @@
+2024-10-03 01:39:07.859 [info] Extension host with pid 996 started
+2024-10-03 01:39:07.883 [error] Error: EEXIST: file already exists, open '/home/vscode/.vscode-remote/data/User/workspaceStorage/348316d/vscode.lock'
+2024-10-03 01:39:07.883 [info] Lock '/home/vscode/.vscode-remote/data/User/workspaceStorage/348316d/vscode.lock': Could not acquire lock, checking if the file is stale.
+2024-10-03 01:39:07.884 [info] Lock '/home/vscode/.vscode-remote/data/User/workspaceStorage/348316d/vscode.lock': The pid 14619 appears to be gone.
+2024-10-03 01:39:07.884 [info] Lock '/home/vscode/.vscode-remote/data/User/workspaceStorage/348316d/vscode.lock': Deleting a stale lock.
+2024-10-03 01:39:07.945 [info] Lock '/home/vscode/.vscode-remote/data/User/workspaceStorage/348316d/vscode.lock': Lock acquired.
+2024-10-03 01:39:09.444 [info] ExtensionService#_doActivateExtension GitHub.codespaces, startup: false, activationEvent: 'onCommand:github.codespaces.activate'
+2024-10-03 01:39:09.445 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: '*', root cause: vscode.git
+2024-10-03 01:39:09.446 [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: false, activationEvent: '*'
+2024-10-03 01:39:09.446 [info] ExtensionService#_doActivateExtension mhutchie.git-graph, startup: false, activationEvent: '*'
+2024-10-03 01:39:10.207 [warning] Using default string since no string found in i18n bundle that has the key: Keep Defaults
+2024-10-03 01:39:10.207 [warning] Using default string since no string found in i18n bundle that has the key: Configure Options
+2024-10-03 01:39:10.207 [warning] Using default string since no string found in i18n bundle that has the key: Finish
+2024-10-03 01:39:10.350 [warning] Using default string since no string found in i18n bundle that has the key: Learn More
+2024-10-03 01:39:10.350 [warning] Using default string since no string found in i18n bundle that has the key: Documentation on predefined container definitions
+2024-10-03 01:39:12.159 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'api', root cause: GitHub.codespaces
+2024-10-03 01:39:13.839 [error] No bundle location found for extension vscode.git-base
+2024-10-03 01:39:13.839 [error] No bundle location found for extension vscode.github-authentication
+2024-10-03 01:39:13.910 [warning] Using default string since no string found in i18n bundle that has the key: url handler
+2024-10-03 01:39:13.910 [warning] Using default string since no string found in i18n bundle that has the key: local server
+2024-10-03 01:39:13.910 [warning] Using default string since no string found in i18n bundle that has the key: device code
+2024-10-03 01:39:13.910 [warning] Using default string since no string found in i18n bundle that has the key: personal access token
+2024-10-03 01:39:13.967 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: '*'
+2024-10-03 01:39:13.967 [info] ExtensionService#_doActivateExtension vscode.github, startup: false, activationEvent: '*'
+2024-10-03 01:39:21.888 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-10-03 01:39:21.888 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-10-03 01:39:21.888 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2024-10-03 01:39:21.889 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-10-03 01:39:21.889 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+2024-10-03 01:39:21.889 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onStartupFinished'
+2024-10-03 01:39:21.889 [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github, startup: false, activationEvent: 'onStartupFinished'
+2024-10-03 01:40:25.637 [error] No bundle location found for extension vscode.debug-auto-launch
+2024-10-03 01:40:25.637 [error] No bundle location found for extension vscode.merge-conflict
+2024-10-03 01:40:25.639 [warning] Using default string since no string found in i18n bundle that has the key: Auto Attach: Disabled
+2024-10-03 01:40:25.639 [warning] Using default string since no string found in i18n bundle that has the key: Auto Attach: Always
+2024-10-03 01:40:25.639 [warning] Using default string since no string found in i18n bundle that has the key: Auto Attach: Smart
+2024-10-03 01:40:25.639 [warning] Using default string since no string found in i18n bundle that has the key: Auto Attach: With Flag
+2024-10-03 01:40:25.639 [warning] Using default string since no string found in i18n bundle that has the key: Disabled
+2024-10-03 01:40:25.639 [warning] Using default string since no string found in i18n bundle that has the key: Always
+2024-10-03 01:40:25.639 [warning] Using default string since no string found in i18n bundle that has the key: Smart
+2024-10-03 01:40:25.639 [warning] Using default string since no string found in i18n bundle that has the key: Only With Flag
+2024-10-03 01:40:25.639 [warning] Using default string since no string found in i18n bundle that has the key: Auto attach is disabled and not shown in status bar
+2024-10-03 01:40:25.639 [warning] Using default string since no string found in i18n bundle that has the key: Auto attach to every Node.js process launched in the terminal
+2024-10-03 01:40:25.639 [warning] Using default string since no string found in i18n bundle that has the key: Auto attach when running scripts that aren't in a node_modules folder
+2024-10-03 01:40:25.639 [warning] Using default string since no string found in i18n bundle that has the key: Only auto attach when the `--inspect` flag is given
+2024-10-03 01:40:25.640 [warning] Using default string since no string found in i18n bundle that has the key: Toggle auto attach in this workspace
+2024-10-03 01:40:25.640 [warning] Using default string since no string found in i18n bundle that has the key: Toggle auto attach on this machine
+2024-10-03 01:40:25.640 [warning] Using default string since no string found in i18n bundle that has the key: Temporarily disable auto attach in this session
+2024-10-03 01:40:25.640 [warning] Using default string since no string found in i18n bundle that has the key: Re-enable auto attach
+2024-10-03 01:40:25.640 [warning] Using default string since no string found in i18n bundle that has the key: Auto Attach: Disabled
+2024-10-03 01:40:25.676 [warning] Using default string since no string found in i18n bundle that has the key: (Current Change)
+2024-10-03 01:40:25.677 [warning] Using default string since no string found in i18n bundle that has the key: (Incoming Change)
+2024-10-03 01:40:26.069 [info] Eager extensions activated

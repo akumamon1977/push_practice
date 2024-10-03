@@ -1,0 +1,67 @@
+2024-10-02 16:40:30.580 [info] [main] ログ レベル: Info
+2024-10-02 16:40:30.580 [info] [main] Git の検証が検出されました: "git"
+2024-10-02 16:40:30.580 [info] [main] "git" から Git "2.46.1" を使用しています
+2024-10-02 16:40:30.580 [info] [Model][doInitialScan] Initial repository scan started
+2024-10-02 16:40:30.580 [info] > git rev-parse --show-toplevel [6ms]
+2024-10-02 16:40:30.580 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-02 16:40:30.580 [info] > git rev-parse --show-toplevel [3ms]
+2024-10-02 16:40:30.580 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-02 16:40:30.586 [info] > git rev-parse --show-toplevel [1ms]
+2024-10-02 16:40:30.586 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-02 16:40:30.592 [info] > git rev-parse --show-toplevel [1ms]
+2024-10-02 16:40:30.592 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-02 16:40:30.595 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2024-10-02 16:46:27.766 [info] > git rev-parse --show-toplevel [2ms]
+2024-10-02 16:46:27.773 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2024-10-02 16:46:27.785 [info] [Model][openRepository] Opened repository: /home/vscode/progate_path/self_introduction_commit/self_introduction
+2024-10-02 16:46:27.801 [info] [Git][getRemotes] No remotes found in the git config file
+2024-10-02 16:46:27.802 [info] > git config --get commit.template [7ms]
+2024-10-02 16:46:27.802 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-10-02 16:46:27.803 [warning] [Git][getBranch] No such branch: main
+2024-10-02 16:46:27.810 [info] > git status -z -uall [2ms]
+2024-10-02 16:46:27.830 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [14ms]
+2024-10-02 16:46:27.830 [warning] [Git][getBranch] No such branch: main
+2024-10-02 16:46:27.831 [info] > git config --get commit.template [3ms]
+2024-10-02 16:46:27.836 [info] [Git][getRemotes] No remotes found in the git config file
+2024-10-02 16:46:27.837 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-10-02 16:46:27.837 [warning] [Git][getBranch] No such branch: main
+2024-10-02 16:46:27.843 [info] > git status -z -uall [2ms]
+2024-10-02 16:46:27.849 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-10-02 16:46:27.849 [warning] [Git][getBranch] No such branch: main
+2024-10-02 16:46:28.575 [info] > git config --local branch.main.github-pr-owner-number [2ms]
+2024-10-02 16:46:28.575 [warning] [Git][config] git config failed: Failed to execute git
+2024-10-02 16:46:28.582 [info] > git config --local branch.main.remote [2ms]
+2024-10-02 16:46:28.582 [warning] [Git][config] git config failed: Failed to execute git
+2024-10-02 16:46:28.588 [info] > git config --local branch.main.merge [1ms]
+2024-10-02 16:46:28.588 [warning] [Git][config] git config failed: Failed to execute git
+2024-10-02 16:46:28.634 [info] > git check-ignore -v -z --stdin [2ms]
+2024-10-02 16:47:06.243 [info] [Git][getRemotes] No remotes found in the git config file
+2024-10-02 16:47:06.244 [info] > git config --get commit.template [5ms]
+2024-10-02 16:47:06.244 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-10-02 16:47:06.244 [warning] [Git][getBranch] No such branch: main
+2024-10-02 16:47:06.250 [info] > git status -z -uall [2ms]
+2024-10-02 16:47:06.258 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-10-02 16:47:06.259 [warning] [Git][getBranch] No such branch: main
+2024-10-02 16:47:07.271 [info] [Git][getRemotes] No remotes found in the git config file
+2024-10-02 16:47:07.272 [info] > git config --get commit.template [5ms]
+2024-10-02 16:47:07.272 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-10-02 16:47:07.272 [warning] [Git][getBranch] No such branch: main
+2024-10-02 16:47:07.278 [info] > git status -z -uall [1ms]
+2024-10-02 16:47:07.288 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2024-10-02 16:47:07.288 [warning] [Git][getBranch] No such branch: main
+2024-10-02 16:47:14.542 [info] [Git][getRemotes] No remotes found in the git config file
+2024-10-02 16:47:14.544 [info] > git config --get commit.template [6ms]
+2024-10-02 16:47:14.545 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-10-02 16:47:14.551 [info] > git status -z -uall [2ms]
+2024-10-02 16:47:14.565 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [9ms]
+2024-10-02 16:47:14.572 [info] > git config --local branch.main.github-pr-owner-number [9ms]
+2024-10-02 16:47:14.572 [warning] [Git][config] git config failed: Failed to execute git
+2024-10-02 16:47:14.585 [info] > git config --local branch.main.remote [1ms]
+2024-10-02 16:47:14.585 [warning] [Git][config] git config failed: Failed to execute git
+2024-10-02 16:47:14.590 [info] > git config --local branch.main.vscode-merge-base [19ms]
+2024-10-02 16:47:14.590 [warning] [Git][config] git config failed: Failed to execute git
+2024-10-02 16:47:14.596 [info] > git config --local branch.main.merge [7ms]
+2024-10-02 16:47:14.596 [warning] [Git][config] git config failed: Failed to execute git
+2024-10-02 16:47:14.597 [info] > git reflog main --grep-reflog=branch: Created from *. [3ms]
+2024-10-02 16:47:14.603 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [2ms]
+2024-10-02 16:47:14.603 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref

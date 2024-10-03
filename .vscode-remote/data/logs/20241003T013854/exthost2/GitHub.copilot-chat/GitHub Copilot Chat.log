@@ -1,0 +1,55 @@
+2024-10-03 01:44:12.864 [info] Can't use the Electron fetcher in this environment.
+2024-10-03 01:44:12.864 [info] Using the Helix fetcher.
+2024-10-03 01:44:12.864 [info] Initializing Git extension service.
+2024-10-03 01:44:12.864 [info] Successfully activated the vscode.git extension.
+2024-10-03 01:44:12.864 [info] Enablement state of the vscode.git extension: true.
+2024-10-03 01:44:12.864 [info] Successfully registered Git commit message provider.
+2024-10-03 01:44:12.900 [warning] Unable to fetch remote agents because user is not signed in.
+2024-10-03 01:44:13.613 [info] Registering default platform agent...
+2024-10-03 01:44:13.667 [info] Removed 1 expired certificates
+2024-10-03 01:44:15.848 [warning] Invalid remote agent response: unauthorized: not licensed to use Copilot
+ (SyntaxError: Unexpected token 'u', "unauthoriz"... is not valid JSON)
+2024-10-03 01:44:16.089 [info] Logged in as akumamon1977
+2024-10-03 01:44:17.960 [warning] Invalid copilot token: missing token: 403 
+2024-10-03 01:44:17.962 [error] Error: No access to GitHub Copilot found. You are currently logged in as akumamon1977.
+    at rC._authShowWarnings (/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.20.3/dist/extension.js:738:3595)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at rC.getCopilotToken (/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.20.3/dist/extension.js:738:2644)
+    at nT.getCopilotToken (/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.20.3/dist/extension.js:141:12074)
+    at h$.waitForChatEnabled (/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.20.3/dist/extension.js:736:3227)
+    at h$.run (/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.20.3/dist/extension.js:736:2952)
+    at Mfe (/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.20.3/dist/extension.js:736:2636): Failed to get copilot token
+2024-10-03 01:44:17.962 [warning] [LanguageModelAccess] LanguageModel/Embeddings are not available without auth token
+2024-10-03 01:44:17.962 [error] Error: No access to GitHub Copilot found. You are currently logged in as akumamon1977.
+    at rC._authShowWarnings (/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.20.3/dist/extension.js:738:3595)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at rC.getCopilotToken (/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.20.3/dist/extension.js:738:2644)
+    at nT.getCopilotToken (/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.20.3/dist/extension.js:141:12074)
+    at iC._getAuthSession (/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.20.3/dist/extension.js:739:2324)
+    at r (/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.20.3/dist/extension.js:739:631)
+    at iC._registerLanguageModels (/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.20.3/dist/extension.js:739:1638)
+    at async Promise.all (index 0)
+    at async Promise.allSettled (index 0)
+    at hmt (/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.20.3/dist/extension.js:1535:4033)
+    at fmt (/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.20.3/dist/extension.js:1535:3164)
+    at m.n (/vscode/bin/linux-x64/38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/out/vs/workbench/api/node/extensionHostProcess.js:151:6409)
+    at m (/vscode/bin/linux-x64/38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/out/vs/workbench/api/node/extensionHostProcess.js:151:6372)
+    at m.l (/vscode/bin/linux-x64/38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/out/vs/workbench/api/node/extensionHostProcess.js:151:5829)
+2024-10-03 01:44:17.962 [warning] [LanguageModelAccess] LanguageModel/Embeddings are not available without auth token
+2024-10-03 01:44:17.962 [error] Error: No access to GitHub Copilot found. You are currently logged in as akumamon1977.
+    at rC._authShowWarnings (/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.20.3/dist/extension.js:738:3595)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at rC.getCopilotToken (/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.20.3/dist/extension.js:738:2644)
+    at nT.getCopilotToken (/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.20.3/dist/extension.js:141:12074)
+    at iC._getAuthSession (/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.20.3/dist/extension.js:739:2324)
+    at /home/vscode/.vscode-remote/extensions/github.copilot-chat-0.20.3/dist/extension.js:739:1902
+    at iC._registerEmbeddings (/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.20.3/dist/extension.js:739:1872)
+    at async Promise.all (index 1)
+    at async Promise.allSettled (index 0)
+    at hmt (/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.20.3/dist/extension.js:1535:4033)
+    at fmt (/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.20.3/dist/extension.js:1535:3164)
+    at m.n (/vscode/bin/linux-x64/38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/out/vs/workbench/api/node/extensionHostProcess.js:151:6409)
+    at m (/vscode/bin/linux-x64/38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/out/vs/workbench/api/node/extensionHostProcess.js:151:6372)
+    at m.l (/vscode/bin/linux-x64/38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/out/vs/workbench/api/node/extensionHostProcess.js:151:5829)
+2024-10-03 01:44:17.962 [error] GitHub Copilot could not connect to server. Extension activation failed: "No access to GitHub Copilot found. You are currently logged in as akumamon1977."
+2024-10-03 01:44:17.962 [info] activationBlocker from 'languageModelAccess' took for 5066ms

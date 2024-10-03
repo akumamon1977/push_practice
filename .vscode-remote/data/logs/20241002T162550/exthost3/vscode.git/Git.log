@@ -1,0 +1,37 @@
+2024-10-02 16:33:29.471 [info] [main] ログ レベル: Info
+2024-10-02 16:33:29.471 [info] [main] Git の検証が検出されました: "git"
+2024-10-02 16:33:29.471 [info] [main] "git" から Git "2.46.1" を使用しています
+2024-10-02 16:33:29.471 [info] [Model][doInitialScan] Initial repository scan started
+2024-10-02 16:33:29.471 [info] > git rev-parse --show-toplevel [11ms]
+2024-10-02 16:33:29.471 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-02 16:33:29.479 [info] > git rev-parse --show-toplevel [11ms]
+2024-10-02 16:33:29.479 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-02 16:33:29.488 [info] > git rev-parse --show-toplevel [3ms]
+2024-10-02 16:33:29.488 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-02 16:33:29.495 [info] > git rev-parse --show-toplevel [2ms]
+2024-10-02 16:33:29.495 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-02 16:33:29.498 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2024-10-02 16:36:11.849 [info] > git rev-parse --show-toplevel [2ms]
+2024-10-02 16:36:11.856 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2024-10-02 16:36:11.868 [info] [Model][openRepository] Opened repository: /home/vscode/progate_path/self_introduction_commit/self_introduction
+2024-10-02 16:36:11.885 [info] [Git][getRemotes] No remotes found in the git config file
+2024-10-02 16:36:11.885 [info] > git config --get commit.template [7ms]
+2024-10-02 16:36:11.886 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-10-02 16:36:11.886 [warning] [Git][getBranch] No such branch: main
+2024-10-02 16:36:11.893 [info] > git status -z -uall [2ms]
+2024-10-02 16:36:11.914 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [15ms]
+2024-10-02 16:36:11.915 [warning] [Git][getBranch] No such branch: main
+2024-10-02 16:36:11.916 [info] > git config --get commit.template [5ms]
+2024-10-02 16:36:11.921 [info] [Git][getRemotes] No remotes found in the git config file
+2024-10-02 16:36:11.922 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-10-02 16:36:11.922 [warning] [Git][getBranch] No such branch: main
+2024-10-02 16:36:11.928 [info] > git status -z -uall [2ms]
+2024-10-02 16:36:11.935 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-10-02 16:36:11.935 [warning] [Git][getBranch] No such branch: main
+2024-10-02 16:36:12.542 [info] > git check-ignore -v -z --stdin [2ms]
+2024-10-02 16:36:12.666 [info] > git config --local branch.main.github-pr-owner-number [2ms]
+2024-10-02 16:36:12.666 [warning] [Git][config] git config failed: Failed to execute git
+2024-10-02 16:36:12.675 [info] > git config --local branch.main.remote [2ms]
+2024-10-02 16:36:12.675 [warning] [Git][config] git config failed: Failed to execute git
+2024-10-02 16:36:12.683 [info] > git config --local branch.main.merge [2ms]
+2024-10-02 16:36:12.683 [warning] [Git][config] git config failed: Failed to execute git

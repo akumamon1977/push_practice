@@ -1,0 +1,98 @@
+[2024-10-02 16:26:36.076] Starting Git Graph ...
+[2024-10-02 16:26:36.250] Using git (version: 2.46.1)
+[2024-10-02 16:26:36.292] Started Git Graph - Ready to use!
+[2024-10-02 16:26:36.294] Searching workspace for new repos ...
+[2024-10-02 16:26:36.309] > git rev-parse --show-toplevel
+[2024-10-02 16:26:36.332] Completed searching workspace for new repos
+[2024-10-02 16:26:37.042] Successfully set Visual Studio Code Context "git-graph:codiconsSupported" to "true"
+[2024-10-02 16:26:38.495] > git rev-parse --show-toplevel
+[2024-10-02 16:26:38.508] > git rev-parse --show-toplevel
+[2024-10-02 16:26:38.513] > git rev-parse --show-toplevel
+[2024-10-02 16:26:38.524] > git rev-parse --show-toplevel
+[2024-10-02 16:26:38.530] > git rev-parse --show-toplevel
+[2024-10-02 16:26:38.543] > git rev-parse --show-toplevel
+[2024-10-02 16:26:38.562] > git rev-parse --show-toplevel
+[2024-10-02 16:26:38.574] > git rev-parse --show-toplevel
+[2024-10-02 16:26:38.594] > git rev-parse --show-toplevel
+[2024-10-02 16:26:38.619] > git rev-parse --show-toplevel
+[2024-10-02 16:26:38.631] > git rev-parse --show-toplevel
+[2024-10-02 16:26:38.680] > git rev-parse --show-toplevel
+[2024-10-02 16:26:38.731] > git rev-parse --show-toplevel
+[2024-10-02 16:26:38.738] > git rev-parse --show-toplevel
+[2024-10-02 16:26:38.754] > git rev-parse --show-toplevel
+[2024-10-02 16:26:44.210] > git rev-parse --show-toplevel
+[2024-10-02 16:26:52.530] > git rev-parse --show-toplevel
+[2024-10-02 16:26:52.557] > git rev-parse --show-toplevel
+[2024-10-02 16:26:52.563] > git rev-parse --show-toplevel
+[2024-10-02 16:26:53.432] > git rev-parse --show-toplevel
+[2024-10-02 16:26:53.491] > git rev-parse --show-toplevel
+[2024-10-02 16:26:53.524] > git rev-parse --show-toplevel
+[2024-10-02 16:26:53.607] > git rev-parse --show-toplevel
+[2024-10-02 16:26:53.626] > git rev-parse --show-toplevel
+[2024-10-02 16:26:53.638] > git rev-parse --show-toplevel
+[2024-10-02 16:26:53.652] > git rev-parse --show-toplevel
+[2024-10-02 16:26:53.669] > git rev-parse --show-toplevel
+[2024-10-02 16:26:54.517] > git rev-parse --show-toplevel
+[2024-10-02 16:26:54.625] > git rev-parse --show-toplevel
+[2024-10-02 16:26:54.654] > git rev-parse --show-toplevel
+[2024-10-02 16:26:54.691] > git rev-parse --show-toplevel
+[2024-10-02 16:26:54.701] > git rev-parse --show-toplevel
+[2024-10-02 16:26:58.857] > git rev-parse --show-toplevel
+[2024-10-02 16:29:25.394] > git rev-parse --show-toplevel
+[2024-10-02 16:29:25.400] > git rev-parse --show-toplevel
+[2024-10-02 16:29:25.406] > git rev-parse --show-toplevel
+[2024-10-02 16:29:25.411] > git rev-parse --show-toplevel
+[2024-10-02 16:29:25.416] > git rev-parse --show-toplevel
+[2024-10-02 16:29:25.421] > git rev-parse --show-toplevel
+[2024-10-02 16:29:25.426] > git rev-parse --show-toplevel
+[2024-10-02 16:29:25.430] > git rev-parse --show-toplevel
+[2024-10-02 16:29:55.459] > git rev-parse --show-toplevel
+[2024-10-02 16:29:55.464] > git rev-parse --show-toplevel
+[2024-10-02 16:29:57.347] > git rev-parse --show-toplevel
+[2024-10-02 16:30:01.193] > git rev-parse --show-toplevel
+[2024-10-02 16:30:01.199] > git rev-parse --show-toplevel
+[2024-10-02 16:30:01.205] > git rev-parse --show-toplevel
+[2024-10-02 16:30:01.212] > git rev-parse --show-toplevel
+[2024-10-02 16:30:01.219] > git rev-parse --show-toplevel
+[2024-10-02 16:30:01.226] > git rev-parse --show-toplevel
+[2024-10-02 16:30:01.251] > git rev-parse --show-toplevel
+[2024-10-02 16:32:02.181] > git rev-parse --show-toplevel
+[2024-10-02 16:32:02.186] > git rev-parse --show-toplevel
+[2024-10-02 16:32:02.190] > git rev-parse --show-toplevel
+[2024-10-02 16:32:39.828] > git rev-parse --show-toplevel
+[2024-10-02 16:32:49.785] > git rev-parse --show-toplevel
+[2024-10-02 16:32:49.787] Added new repo: /home/vscode/.progate/origins/8bD7b83bnNigx1-MPlVyv/self_introduction
+[2024-10-02 16:32:49.791] > git rev-parse --show-toplevel
+[2024-10-02 16:32:49.792] Showing "Git Graph" Status Bar Item
+[2024-10-02 16:33:26.380] > git rev-parse --show-toplevel
+[2024-10-02 16:33:26.385] > git rev-parse --show-toplevel
+[2024-10-02 16:33:29.460] > git rev-parse --show-toplevel
+[2024-10-02 16:33:29.466] > git rev-parse --show-toplevel
+[2024-10-02 16:33:32.187] > git rev-parse --show-toplevel
+[2024-10-02 16:33:32.193] > git rev-parse --show-toplevel
+[2024-10-02 16:33:32.198] > git rev-parse --show-toplevel
+[2024-10-02 16:33:32.204] > git rev-parse --show-toplevel
+[2024-10-02 16:33:32.210] > git rev-parse --show-toplevel
+[2024-10-02 16:33:32.216] > git rev-parse --show-toplevel
+[2024-10-02 16:36:29.045] > git rev-parse --show-toplevel
+[2024-10-02 16:36:29.047] Added new repo: /home/vscode/progate_path/self_introduction_commit/self_introduction
+[2024-10-02 16:38:34.891] Removed repo: /home/vscode/progate_path/self_introduction_commit/self_introduction
+[2024-10-02 16:38:34.946] Removed repo: /home/vscode/.progate/origins/8bD7b83bnNigx1-MPlVyv/self_introduction
+[2024-10-02 16:38:34.946] Hiding "Git Graph" Status Bar Item
+[2024-10-02 16:38:36.384] > git rev-parse --show-toplevel
+[2024-10-02 16:38:36.399] Added new repo: /home/vscode/.progate/origins/8bD7b83bnNigx1-MPlVyv/self_introduction
+[2024-10-02 16:38:36.439] > git rev-parse --show-toplevel
+[2024-10-02 16:38:36.444] > git rev-parse --show-toplevel
+[2024-10-02 16:38:36.449] > git rev-parse --show-toplevel
+[2024-10-02 16:38:36.450] Showing "Git Graph" Status Bar Item
+[2024-10-02 16:40:26.885] > git rev-parse --show-toplevel
+[2024-10-02 16:40:28.609] > git rev-parse --show-toplevel
+[2024-10-02 16:40:30.526] > git rev-parse --show-toplevel
+[2024-10-02 16:40:32.961] > git rev-parse --show-toplevel
+[2024-10-02 16:40:32.968] > git rev-parse --show-toplevel
+[2024-10-02 16:40:32.975] > git rev-parse --show-toplevel
+[2024-10-02 16:40:32.995] > git rev-parse --show-toplevel
+[2024-10-02 16:40:33.003] > git rev-parse --show-toplevel
+[2024-10-02 16:40:34.047] > git rev-parse --show-toplevel
+[2024-10-02 16:46:29.154] > git rev-parse --show-toplevel
+[2024-10-02 16:46:29.156] Added new repo: /home/vscode/progate_path/self_introduction_commit/self_introduction
